@@ -19,12 +19,6 @@ package-lock.json
 # Ignore VS Code-specific files
 .vscodeignore
 
-# Ignore TypeScript configuration files
-tsconfig.json
-
-# Ignore environment-specific files
-.eslintrc.json
-
 # Logs, changelogs, and documentation
 CHANGELOG.md
 vsc-extension-quickstart.md
