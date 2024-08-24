@@ -1,10 +1,10 @@
 {
   "name": "go-printf-wingman",
-  "displayName": "go-printf-wingman",
-  "icon": "images/icon.png"
-  "description": "Get string formatting help",
+  "displayName": "Go Printf-Wingman",
+  "icon": "images/icon.png",
+  "description": "Get string formatting help in Go",
   "version": "0.0.1",
-  "publisher": "akakream/icon.png",
+  "publisher": "akakream",
   "repository": "https://github.com/akakream/go-printf-wingman",
   "engines": {
     "vscode": "^1.92.0"
