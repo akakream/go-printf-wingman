@@ -3,7 +3,7 @@
   "displayName": "Go Printf-Wingman",
   "icon": "images/icon.png",
   "description": "Get string formatting help in Go",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "akakream",
   "repository": "https://github.com/akakream/go-printf-wingman",
   "engines": {
